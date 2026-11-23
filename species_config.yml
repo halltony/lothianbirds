@@ -92,6 +92,9 @@
 "Red-crested Pochard":
   rarity: high
 
+"Ring-necked Duck":
+  rarity: high
+
 "Common Pochard":
   local_name: Pochard
   rarity: medium
@@ -860,3 +863,4 @@ settings:
       "Sample user":
         - "Hawfinch"         # exclude only these species from this user
       
+
